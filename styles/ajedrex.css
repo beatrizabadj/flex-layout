@@ -1,0 +1,22 @@
+body{
+    width:320px;
+    height:320px;
+    border:1px solid rgb(0, 0, 0);
+   }
+   .container{
+    display:flex;
+    justify-content:center;
+     align-content:center;
+   }
+   
+   .gris{
+   background-color:grey;
+   width:40px;
+   height:40px;
+   }
+   
+   .roja{
+   background-color:red;
+   width:40px;
+   height:40px;
+   }
